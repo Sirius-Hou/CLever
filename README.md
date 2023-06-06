@@ -1,5 +1,5 @@
 # CLever
-CLever is a Cover Letter Generator that uses OpenAI's GPT-3 language model to generate personalized cover letters based on user's resume and a company's job description. With *CLever*, you can quickly generate high-quality cover letters that are tailored to the job you're applying for.
+CLever (Cover Letter Generator) uses OpenAI's GPT-3 language model to generate personalized cover letters based on user's resume and a company's job description. With *CLever*, you can quickly generate high-quality cover letters that are tailored to the job you're applying for.
 
 ## Setup
 To set up CLever, follow these steps:
