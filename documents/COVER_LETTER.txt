@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Programmer Intern role at Behaviour Interactive, as advertised on WaterlooWorks and your company website. With experience in programming and a strong passion for game development, I believe I would be an asset to your team.
+
+As an Instructional Support Assistant at the University of Waterloo, I developed and tested proprietary configuration files for the auto-grading system, Lint R. This allowed me to assess and provide feedback on students' assignments, saving over 70% of manual grading time. I also developed batch scripts to extract and integrate students' assignment completion status, reducing spot-checking time by over 60%, and implemented a C++ program to identify students with unusually low scores, which increased the efficiency of the Lint R system and configuration files by over 50%. These experiences demonstrate my ability to problem-solve and debug, skills that will be useful in developing game features and improving code robustness.
+
+Furthermore, as a Technical Support Assistant Intern at Litchi Future Edu Co., LTD, I inspected and made targeted suggestions about Android SES client application UI, and quality tested system API under a Linux environment, reporting errors to developers. And as an Educational Analyst Intern at Guangzhou Iridescent Consulting Co., LTD, I produced quality educational materials, communicated with instructors to customize contents, and proficiently categorized and presented course materials in an accessible manner. These experiences attest to my communication skills and ability to work with teams, which will be useful in collaborating with game designers, animators, artists, and other disciplines.
+
+I am also passionate about game development and have completed several projects that demonstrate my abilities in programming and game design, including building The Game of ChamberCrawler3000+ (CC3K+) from scratch in C++, and co-authoring a complete and detailed engineering log for VEX Robots Design & Innovation.
+
+I am excited about the possibility of working with Behaviour Interactive and contributing to the development of innovative and exciting games. Thank you for considering my application. I have attached my resume, co-op work history, and grade report for your review.
+
+Sincerely,
+Joe Nobody

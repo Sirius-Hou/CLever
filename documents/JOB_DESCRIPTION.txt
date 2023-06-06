@@ -1,0 +1,70 @@
+Job Posting Information
+Work Term:	2023 - Spring
+Job Type:	Co-op Main
+Job Title:	Programmer
+Number of Job Openings:	2
+Job Category (NOC):	2174 Computer Programmers and Interactive Media Developers
+Level:	
+Intermediate
+Senior
+Region:	Quebec
+Job - Address Line One:	6666 Saint-Urbain
+Job - Address Line Two:	5e étage
+Job - City:	Montréal
+Job - Province / State:	Quebec
+Job - Postal Code / Zip Code (X#X #X#):	H2S 3H1
+Job - Country / Region:	Canada
+Work Term Duration:	4 month work term
+Special Job Requirements:	
+Interested applicants must apply through WaterlooWorks and directly to the employer to be considered for this position (see "Additional Application Information" section). 
+ 
+Job Summary:	Behaviour is looking for programmer interns to support its production teams. With your Tech Lead as your mentor, you will have the opportunity to work on different projects and develop your potential! Sounds like something you'd like to do? Send us your resume and tell us about your passion for games! To get to know our internship experience, check this out: https://www.youtube.com/watch?v=rxuhTHZcxYw  .
+
+A little bit about the interview process: 
+Selected candidates will be welcomed to complete a Codility test. Interviews will be held until mid-February 2023.  
+For further information about our internship program, you can check out our FAQ page: https://TEST_LINK.com
+
+Since several work modes are offered to all our employees (100% from home, Flex, 100% in-office), job opportunities posted here are available whether you live in Quebec or Ontario, unless indicated otherwise.   Discuss in interview.
+NOTE: Toronto address (96 Spadina avenue, suite 505,Toronto) 
+----------------------
+Based in Montreal, Behaviour Interactive is one of the largest independent game developer in North America. Anchored in the industry for more than 25 years now, its success is characterized by its versatility to create games based on leading brands, but also original IP's across all major platforms. Behaviour is a Canadian company with an entrepreneurial culture that promotes opportunities and personal development at the same time that giving their employees the feeling of making a difference.
+Job Responsibilities:	In this role you will:
+Develop game features, either on game projects directly or on backend services teams;
+Debug, troubleshoot, and solve problems to improve code robustness;
+Work with game engines such as Unreal Engine and Unity;
+Develop and improve backend services such as player data, matchmaking, achievements, and leaderboards;
+Develop and improve game engine core components such as graphics, audio, networking, and tools;
+Work with game designers, animators, artists, and other disciplines, to integrate assets such as animations, sounds, and special effects in the game.
+Required Skills:	What we're looking for:
+Keen interest for video games;
+Good knowledge in one or more of the following languages: C++, C#, Node.js, Python;
+Prior experience with game engines such as Unreal Engine and Unity is a definite plus;
+Prior experience with REST and web services, and databases is a definite plus;
+To be considered for this internship, you must be eligible to work in Canada at the time of your application.
+Transportation and Housing:	You can work remotely (from Quebec or Ontario only). physically in Quebec or Ontario for the whole duration of internship.
+Please note that you must be in Ontario or Quebec for the whole duration of your work term.
+Behaviour is not providing any assistance in finding transportation and/or housing. 
+Let's be honest - we weren't big fans of people working from home prior to the pandemic. But it didn't take us long to realize that it works - and works extremely well! Flexibility gets results and we knew last year that we wanted our team to continue to enjoy it beyond the pandemic. Each new member of our teams will be invited to choose their preferred option between Fully-at-Work, Fully Remote, or Hybrid, and we will do everything we can to accommodate their request. Specific criteria will have to be met for each option, such as equipment and working conditions at home. Of course, depending on the current sanitary restrictions.
+Compensation and Benefits Information:	Salary range: 20$/hourly to 30$/hourly depending on previous co-op terms and experience.
+
+As an intern, you will be eligible for BeHappy, our flex expense reimbursement program! You'll have 250$ to spend on video games, sports, transportation, or your workspace at home. 
+Targeted Degrees and Disciplines:	
+Targeted Clusters
+- Theme - Computing: Software
+ENG - Electrical and Computer Engineering
+ENG - Software Engineering
+MATH - Computer Science
+Application Information
+Application Deadline:	January 17, 2023 09:00 AM
+Application Documents Required:	University of Waterloo Co-op Work History,Cover Letter,Résumé,Grade Report
+Additional Application Information:	We strongly suggest that you tell us more about what kind of role you are interested in and about your passion for video games in your cover letter!
+
+Recruiting process : 
+1. Codility technical test
+2. Technical Interview (30 min via Microsoft Teams)
+
+Apply to WaterlooWorks and directly on employer company website: TEST_LINK
+Application Method:	WaterlooWorks
+Company Information
+Organization:	Behaviour Interactive Inc
+Division:	Montreal Office
