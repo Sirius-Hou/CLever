@@ -34,7 +34,7 @@ python source/script.py
 ```
 or
 ```
-npm run dev_py
+npm run dev
 ```
 
 This will start the CLever application. Follow the prompts to generate a cover letter or conduct other interactions.
