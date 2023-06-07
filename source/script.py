@@ -40,6 +40,7 @@ def chat_with_gpt3():
             messages=messages
         )
 
+        messages.append({"role": "assistant", "content": response['choices'][0]['message']['content']})
         print(response['choices'][0]['message']['content'] + "\n")
 
         if user_input.lower() == "exit":
@@ -194,7 +195,6 @@ def task_agent():
 
         # Generate a cover letter
         elif cmd == "5":
-            cover_letter = generate_cover_letter()
             cover_letter = generate_cover_letter()
             with open('../documents/COVER_LETTER.txt', 'w') as f:
                 f.write(cover_letter)
