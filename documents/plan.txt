@@ -1,0 +1,5 @@
+Basic UI (1st draft)
+First page: Should have a button "Get Started!" directing user to the second page.
+Second page: Requests users' info, including resume, job description and additional info (optional). Put a checkmark beside each category if that information has been uploaded to the website. Output error if resume/job description not provided; warning if additional info not given: "To make your cover letter more convincing to the employer, additional information can make you stand out as an exceptional candidate! Feel free to add points you think that makes you an excellent fit for the job."
+Third Page: Loading page
+Last: Generated doc.
