@@ -108,10 +108,24 @@ def generate_image(prompt):
     return image_url
 
 """
+get_position(): Gets the position the client is applying for.
+"""
+def get_position():
+    return "Software Engineer"
+
+
+"""
+get_company(): Gets the company the client is applying for. 
+"""
+
+def get_company():
+    return "Apple"
+
+
+"""
 generate_cover_letter(): This function uses GPT-3 to generate a cover letter based on the user's resume (stored in '../documents/RESUME.pdf')
 and the job description (stored in '../documents/JOB_DESCRIPTION.txt')
 """
-
 
 def generate_cover_letter():
     # extract text from resume pdf file
@@ -125,15 +139,40 @@ def generate_cover_letter():
     with open('../documents/RESUME_reformated.txt', 'w', encoding='utf-8') as f:
         f.write(extracted_text)
     
-    # generate cover letter
-    text = "Use information in the resume and the job description below to generate a cover letter for the company:\n"
-    text += "Resume:\n" + extracted_text + "\n" + "Job & Company information:\n" + open('../documents/JOB_DESCRIPTION.txt', 'r', encoding='utf-8').read()
+    # Step 1: Identify challenges based on job description
+    text = "Based on this job description, what is the biggest challenge someone in this position would face day-to-day?" + "\n"
+    text += open('../documents/JOB_DESCRIPTION.txt', 'r', encoding='utf-8').read()
+    #"Resume:\n" + extracted_text + "\n" + "Job & Company information:\n" + 
 
     messages = [{"role": "user", "content": text}]
     response = openai.ChatCompletion.create(
       model="gpt-3.5-turbo",
       messages=messages
     )
+    
+
+    # Step 2: Write an interesting hook that connects challenges of this job and you current job, if you provided one. Currently assume you have a current job.
+    position = get_position()
+    company = get_company()
+    text = ""
+    text += "You are applying for this " + position + "position at " + company + ".\n" + "Write an attention-grabbing hook for your cover letter that highlights your experience and qualifications in a way that shows you empathize and can successfully take on the challenges of " + position  + " based on your previous response. \n Consider incorporating specific examples of how you have tackled these challenges in your past work, and explore creative ways to express your enthusiasm for the opportunity. Keep your hook within 100 words."
+
+    messages = [{"role": "user", "content": text}]
+    response = openai.ChatCompletion.create(
+      model="gpt-3.5-turbo",
+      messages=messages
+    )
+    hook = response['choices'][0]['message']['content']
+
+    # Step 3: Generate cover letter based on resume and hook
+    text = "You are writing a cover letter applying for the " + position + " role at " + company + ". Here is the introduction paragraph of the hook: \n" + hook + "\n Without modifying the introduction, finish writing the cover letter based on your resume and keep it within 250 words. Here is your resume: \n " + extracted_text
+     
+    messages = [{"role": "user", "content": text}]
+    response = openai.ChatCompletion.create(
+      model="gpt-3.5-turbo",
+      messages=messages
+    )
+
 
     return response['choices'][0]['message']['content']
 
