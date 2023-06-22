@@ -139,7 +139,6 @@ def generate_cover_letter():
 
 
 
-
 """
 task_agent(): This function controls which function to call based on the user's choice.
 """
