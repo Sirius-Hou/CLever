@@ -5,6 +5,11 @@
     align-items: center;
 
     background: var(--color-footer);
+
+    /*background: linear-gradient(to right, #ff416c, #ff4b2b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;*/
+    color: #ff416c;
 }
 
 .clever__footer-heading {
@@ -84,7 +89,7 @@
 }
 
 .clever__footer-links_div h4 {
-    font-size: 14px;
+    font-size: 20px;
     line-height: 17px;
     font-family: var(--font-family);
     color: #fff;
@@ -93,8 +98,8 @@
 }
 
 .clever__footer-links_div p {
-    font-size: 12px;
-    line-height: 15px;
+    font-size: 18px;
+    line-height: 20px;
     font-family: var(--font-family);
     color: #fff;
 

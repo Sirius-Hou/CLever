@@ -15,7 +15,7 @@ const Footer = () => (
     <div className="clever__footer-links">
       <div className="clever__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
-        <p>Clever Team <br /> All Rights Reserved</p>
+        <p>CLever Team <br /> All Rights Reserved</p>
       </div>
       <div className="clever__footer-links_div">
         <h4>Links</h4>
@@ -32,14 +32,14 @@ const Footer = () => (
       </div>
       <div className="clever__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Clever Team</p>
+        <p>CLever Team</p>
         <p>647-xxx-xxx</p>
         <p>xxx@clever.com</p>
       </div>
     </div>
 
     <div className="clever__footer-copyright">
-      <p>@2023 Clever. All rights reserved.</p>
+      <p>@2023 CLever. All rights reserved.</p>
     </div>
   </div>
 );
