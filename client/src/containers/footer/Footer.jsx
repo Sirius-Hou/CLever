@@ -1,5 +1,5 @@
 import React from 'react';
-import gpt3Logo from '../../assets/logo.svg';
+import Logo from '../../assets/logo.png';
 import './footer.css';
 
 const Footer = () => (
@@ -14,7 +14,7 @@ const Footer = () => (
 
     <div className="clever__footer-links">
       <div className="clever__footer-links_logo">
-        <img src={gpt3Logo} alt="gpt3_logo" />
+        <img src={Logo} alt="logo" />
         <p>Clever Team <br /> All Rights Reserved</p>
       </div>
       <div className="clever__footer-links_div">

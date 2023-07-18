@@ -8,7 +8,7 @@
 .header-content{
     flex:1;
     display: flex;
-    justify-content: center;
+    justify-content: center; 
     align-items: flex-start;
     flex-direction: column;
 
@@ -21,6 +21,7 @@
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
+    align-self: flex-start;
 }
 
 .header-content p{
@@ -31,17 +32,20 @@
     line-height: 27px;
 
     color: var(--color-text);
-    margin-top: 1.5rem;
+    margin-top: 1.5 rem;
+    margin-bottom: 1.5 rem;
 }
 
 .header-content-input{
     width: 100%;
     margin:2rem 0 1rem;
     display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
 }
 
 .header-content-input input{
-    flex: 2;
+    flex: 0.5;
     width: 100%;
     min-height: 50px;
     font-family: var(--font-family);
@@ -50,48 +54,13 @@
     line-height: 28px;
     background: var(--color-footer);
     border: 2px solid var(--color-footer);
-    padding: 0 1rem;
+    padding: 0 0rem;
     outline: none;
     color: #fff;
-
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
 }
 
-.upload-btn {
-    margin-left: 10px;
-    display: flex;
-    align-items: center;
-    background: transparent;
-    border: none;  /* remove border */
-    color: #fff;   /* make text white */
-  }
-  
-  .upload-btn .fa-upload {
-    margin-right: 0px;
-    color: #fff;   /* make icon white */
-  }
-
-  .import-button button {
-    margin-left: 0px;
-    display: flex;
-    align-items: center;
-    background: transparent;
-    border: 2px solid #000; /* added a white border */
-    border-radius: 5px; /* rounded corners */
-    color: #fff;
-    padding: 5px 10px; /* some padding for better appearance */
-    font-size: 14px; /* reduced font size */
-    cursor: pointer; /* changes the cursor when you hover over the button */
-    transition: all 0.3s ease; /* smooth transition for hover effect */
+.start-btn{
     width: 100%;
-    min-height: 50px;
-    /* flex: 0.7; */
-    background: #0E2940D4;
-  }
-.import-button button:hover {
-    /* background: #fff; background turns white on hover */
-    color: #000; /* text turns black on hover */
 }
 
 .submit-btn {
@@ -103,7 +72,8 @@
     font-size: 20px;
     line-height: 28px;
     background: #FF4820;
-    border: 2px solid #FF4820;
+    border-radius: 0px;
+    /* border: 2px solid #FF4820; */
     padding: 0 1rem;
     color: #fff;
     cursor: pointer;
@@ -111,12 +81,15 @@
 
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
+    /* border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px; */
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
 }
 
 .submit-btn:hover{
-    color: #000;
+    color: white;
+    border: none;
 }
 
 .header-content-people{

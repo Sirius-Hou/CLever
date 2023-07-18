@@ -1,0 +1,53 @@
+.main-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    padding-top: 2rem;
+}
+
+.gradient_bg {
+    background:-moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+    background:-webkit-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+    background:-o-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+    background:-ms-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+    background:radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin-left: 50px;
+}
+
+.gradient_bg h1 {
+    font-size: 2.5em;
+    margin-bottom: 1rem;
+    margin-left: 10px;
+}
+
+.gradient_bg p {
+    font-size: 1.2em;
+    margin-bottom: 0.5rem;
+}
+
+.buttonclass{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: none;
+    color: #000;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    justify-content: center;
+}
+
+.buttonclass button{
+    justify-content: center;
+}

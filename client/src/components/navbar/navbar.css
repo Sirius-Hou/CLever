@@ -19,13 +19,45 @@
 }
 
 .navbar-links-logo img{
-    width: 62.56px;
-    height: 16.02px;
+    width: 40px;
+    height: 40px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 .navbar-links-container {
     display: flex;
     flex-direction: row;
+}
+
+.navbar-links-container p a {
+    color: lightgrey;
+    font-weight: normal; 
+    text-decoration: none;
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+.navbar-links-container p a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background: white;
+    transition: width .3s ease;
+}
+.navbar-links-container p a:hover {
+    color: white;
+    /* text-decoration: underline; */
+    font-weight: bold;
+}
+
+.navbar-links-container p a:hover::after {
+    width: 100%;
 }
 
 .navbar-sign{
