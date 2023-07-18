@@ -11,12 +11,12 @@ const MainPage = () => {
         <div className="gradient_bg">
             <Header />
         </div>
-        <Brand />
+        {/* <Brand />
         <Clever />
         <Features />
         <Possibility />
         <CTA />
-        <Blog />
+        <Blog /> */}
         <Footer />
     </div>
   )

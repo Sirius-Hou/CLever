@@ -1,46 +1,30 @@
-import React from 'react'
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import './header.css'
-import people from '../../assets/people.png'
-import image from '../../assets/image.png'
+import './header.css';
 
 const Header = () => {
-  const navigate = useNavigate(); // get access to the navigate function
+  const navigate = useNavigate();
 
   const handleClick = () => {
-    navigate('/start'); // navigate to /start when the button is clicked
+    navigate('/start');
   }
 
   return (
-    <div className="header section-padding" id="home">
+    <div className="header">
       <div className="header-content">
-        <h1 className="gradient_text">Welcome to CLever! </h1>
-        <p>Description...<br />
-        2nd line<br />
-        3rd line<br />
-        </p>
-        
+      <h1 className='gradient_text'>Welcome to CLever!</h1>
+        <p>Description...</p>
         <div className="header-content-input">
-        <button type="button" className="start-btn" onClick={handleClick}>Get Started</button>
-          {/* <input type="data" placeholder="Enter your email" /> */}
-          
-          {/* <button type="button" className="submit-btn" onClick={handleClick}>Get Started2</button> */}
+          <button className="start-btn" onClick={handleClick}>Get Started</button>
         </div>
-        {/* <div className>
-        <button type="button" className="start-btn" onClick={handleClick}>Get Started</button>
-        </div> */}
-        {/* <p></p>
+      </div>
+    </div>
+    /* <p></p>
         < div className="header-content-people">
           <img src={people} alt="people" />
           <p>Over 4000 people started access a visit in last 3 hour</p>
-        </div> */}
-
-      </div>
-      <div className="header-image">
-        <img src={image} alt="image" />
-      </div>
-    </div>
+        </div> */
   )
 }
 
-export default Header
+export default Header;
