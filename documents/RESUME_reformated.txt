@@ -1,76 +1,101 @@
-JOE NOBODY  
-Email: test@gmail.com Phone: 123-456-7890 LinkedIn: TEST_LINKEDIN GitHub: TEST_GITHUB  
+JOE NOBODY 
 
-Experience  
-University of Waterloo  
-Instructional Support Assistant  
-Waterloo, ON, Canada  
-August 2022 ~ December 2022  
- Designed and tested proprietary configuration files for the auto-grading system, Lint R, to assess and provide feedback on students' assignments, saving over 70% of manual grading time.  
- Developed two Batch scripts to extract and integrate students' assignment completion status and calculate overall class score distributions, reducing spot-checking time by over 60% and minimizing potential system errors.  
- Implemented a C++ program to identify students with unusually low scores, which helped identify system bugs and increased the efficiency of the Lint R system and configuration files by over 50%.  
- Conducted weekly office hours, tutorials, and pre-exam review sessions, gaining extensive public speaking and teaching experience.  
+Email: test@gmail.com 
 
-Litchi Future Edu Co., LTD  
-Technical Support Assistant Intern  
-Guangzhou, China  
-June 2021 ~ August 2021  
- Inspected and made targeted suggestions about Android SES client application UI.  
- Quality tested system API under Linux environment and reported errors to developers.  
+Phone: 123-456-7890 
 
-Guangzhou Iridescent Consulting Co., LTD  
-Educational Analyst Intern  
-Guangzhou, China  
-June 2021 ~ August 2021  
- Produced quality educational materials covering grammar and reading comprehension. Highly appreciated by employer (reference letter included).  
- Communicated with instructors to customize contents.  
- Proficiently categorize and present course materials in an accessible manner.  
+LinkedIn: TEST_LINKEDIN 
 
-Projects  
-The Game of ChamberCrawler3000+ (CC3K+)  
-July 2022 ~ August 2022  
- Built the game from scratch in C++ with OOP. Used dynamic programming techniques with smart pointers and Standard Template Libraries (STL).  
- Used Observer Design Pattern and Decorator Design Pattern to implement over 20 features of interacting with different game elements, including fighting against NPCs, using potions, trading with merchants, and equipping game props.  
- Implemented several “cheat codes” that can be activated during the game to increase the game’s playability. Upgraded visual experience by designing a new color-coded text display system.  
+GitHub: TEST_GITHUB 
 
-VEX Robots Design & Innovation  
-September 2019 ~ April 2020  
- Led a team of 5 as vice-captain, chief mechanist, and chief operator.  
- Blueprinted, constructed, and programmed two VEX EDR robots, equipped with mechanical transmission systems and double-motor pick-up structures.  
- Co-authored a complete and detailed engineering log.  
- Enhanced hands-on ability, creativity, and team responsibility. Accumulated abundant experience on robotics and OOP.  
+Experience 
 
-Remote-controlled Paper Plane Project  
-September 2019 ~ December 2019  
- Led the team of 5, designed and built an innovative electronic remote-controlled paper plane; introduced and exhibited at the school’s science fair.  
- Authored a detailed project report (included in the school brochure).  
+University of Waterloo                                  Waterloo, ON, Canada 
 
-Skills  
-Programming languages:  
-C++ (main) (fluent with various STL containers (array, vector, (unordered) set & map, stack, queue, etc.), algorithms, iterators, and virtualizations), Python, C, Racket, Java  
-Tools:  
-MS Word, PowerPoint, Excel, Teams, LaTeX  
-Webs:  
-Node.js, HTML, CSS, Markdown  
-Operating Systems:  
-Linux, Windows 
+Instructional Support Assistant                                                August 2022 ~ December 2022 
 
-Activities  
-Competitions:  
-ACSL, USACO, CCC  
-Projects:  
-CC3K+ Game Design Project  
-VEX Engineering Log  
-CSP Seminar Report  
-Pacman AI Agents Design  
+- Designed and tested proprietary configuration files for the auto-grading system, Lint R, to assess and provide feedback on students' assignments, saving over 70% of manual grading time. 
 
-Awards  
-UW President’s Scholarship 2021  
-TOP 25% in 2020 Canadian Computer Competition (CCC), senior division  
-TOP 25% in 2019 Canadian Computer Competition (CCC), junior division  
-Design Award & Amaze Award & Create Award in the 12th & 13th VEX Robotics Championships (VEX EDR 2019 & 2020)  
+- Developed two Batch scripts to extract and integrate students' assignment completion status and calculate overall class score distributions, reducing spot-checking time by over 60% and minimizing potential system errors. 
 
-Education  
-Computer Science: Candidate for Bachelor of Mathematics, Honors, Co-operative Program, University of Waterloo, Waterloo, ON May 2022 ~ April 2026  
-Mathematics/Financial Analysis and Risk Management: Honors, Co-operative Program, University of Waterloo, Waterloo, ON Sept 2021 ~ April 2022  
-Cumulative GPA: 88.50%
+- Implemented a C++ program to identify students with unusually low scores, which helped identify system bugs and increased the efficiency of the Lint R system and configuration files by over 50%. 
+
+- Conducted weekly office hours, tutorials, and pre-exam review sessions, gaining extensive public speaking and teaching experience. 
+
+Litchi Future Edu Co., LTD                                             Guangzhou, China 
+
+Technical Support Assistant Intern                                                      June 2021 ~ August 2021 
+
+- Inspected and made targeted suggestions about Android SES client application UI.  
+
+- Quality tested system API under Linux environment and reported errors to developers. 
+
+Guangzhou Iridescent Consulting Co., LTD                             Guangzhou, China 
+
+Educational Analyst Intern                                                         June 2021 ~ August 2021 
+
+- Produced quality educational materials covering grammar and reading comprehension. Highly appreciated by employer (reference letter included). 
+
+- Communicated with instructors to customize contents. 
+
+- Proficiently categorize and present course materials in an accessible manner. 
+
+Projects 
+
+The Game of ChamberCrawler3000+ (CC3K+)        July 2022 ~ August 2022 
+
+- Built the game from scratch in C++ with OOP. Used dynamic programming techniques with smart pointers and Standard Template Libraries (STL). 
+
+- Used Observer Design Pattern and Decorator Design Pattern to implement over 20 features of interacting with different game elements, including fighting against NPCs, using potions, trading with merchants, and equipping game props. 
+
+- Implemented several “cheat codes” that can be activated during the game to increase the game’s playability. Upgraded visual experience by designing a new color-coded text display system. 
+
+VEX Robots Design & Innovation                 September 2019 ~ April 2020 
+
+- Led a team of 5 as vice-captain, chief mechanist, and chief operator. 
+
+- Blueprinted, constructed, and programmed two VEX EDR robots, equipped with mechanical transmission systems and double-motor pick-up structures. 
+
+- Co-authored a complete and detailed engineering log. 
+
+- Enhanced hands-on ability, creativity, and team responsibility. Accumulated abundant experience on robotics and OOP. 
+
+Remote-controlled Paper Plane Project        September 2019 ~ December 2019 
+
+- Led the team of 5, designed and built an innovative electronic remote-controlled paper plane; introduced and exhibited at the school’s science fair. 
+
+- Authored a detailed project report (included in the school brochure). 
+
+Skills 
+
+- Programming languages: C++ (main) (fluent with various STL containers (array, vector, (unordered) set & map, stack, queue, etc.), algorithms, iterators, and virtualizations), Python, C, Racket, Java 
+
+- Tools: MS Word, PowerPoint, Excel, Teams, LaTeX 
+
+- Webs: Node.js, HTML, CSS, Markdown 
+
+- Operating Systems: Linux, Windows 
+
+Activities 
+
+- Competitions: ACSL, USACO, CCC 
+
+- Projects: CC3K+ Game Design Project, VEX Engineering Log, CSP Seminar Report, Pacman AI Agents Design 
+
+Awards 
+
+- UW President’s Scholarship 2021 
+
+- TOP 25% in 2020 Canadian Computer Competition (CCC), senior division 
+
+- TOP 25% in 2019 Canadian Computer Competition (CCC), junior division 
+
+- Design Award & Amaze Award & Create Award in the 12th & 13th VEX Robotics Championships (VEX EDR 2019 & 2020) 
+
+Education 
+
+- Computer Science: Candidate for Bachelor of Mathematics, Honors, Co-operative Program, University of Waterloo, Waterloo, ON May 2022 ~ April 2026 
+
+- Mathematics/Financial Analysis and Risk Management: Honors, Co-operative Program, University of Waterloo, Waterloo, ON Sept 2021 ~ April 2022 
+
+- Cumulative GPA: 88.50%
